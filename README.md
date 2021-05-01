@@ -2,8 +2,11 @@
 
 ##Computer terminal
 [![asciicast](demo/output.gif)
+
 ##Mobile terminal
+
 ![](demo/mobile.gif)
+
 ## Introduction
 Combined with yolov3, deep sort and flash, it is a target detection and multi-target tracking platform that can run on Web pages. You can upload pictures or videos. When the image is uploaded, target detection is carried out. When the video is uploaded, multi-target tracking is carried out (the default is pedestrian, which can be changed to other objects). The mobile terminal provides an online shooting interface for real-time target detection and multi-target tracking.
 ## Dependencies
@@ -66,6 +69,11 @@ python app.py
 ```
 
 ##### 7. If you want to configure to run on the server, please visit my blog [阿里云ECS部署python,flask项目，简单易懂，无需nginx和uwsgi](https://blog.csdn.net/qq_44523137/article/details/112676287)
+
+##### 8. You can use yolov3 demo
+```
+python detector.py
+```
 
 ##Result
 ![avatar](demo/1.png)
