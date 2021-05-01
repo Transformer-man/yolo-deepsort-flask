@@ -1,10 +1,10 @@
 # YOLOv3 and Deep Sort with PyTorch Run On The Web Page
 
-#Computer terminal
+## Computer terminal
 
 ![](demo/output.gif)
 
-#Mobile terminal
+## Mobile terminal
 
 ![](demo/mobile.gif)
 
