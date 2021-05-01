@@ -1,7 +1,8 @@
 # YOLOv3 and Deep Sort with PyTorch Run On The Web Page
 
 ##Computer terminal
-[![asciicast](demo/output.gif)
+
+![asciicast](demo/output.gif)
 
 ##Mobile terminal
 
