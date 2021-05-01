@@ -2,7 +2,7 @@
 
 ##Computer terminal
 
-![asciicast](demo/output.gif)
+![](demo/output.gif)
 
 ##Mobile terminal
 
