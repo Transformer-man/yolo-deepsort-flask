@@ -77,11 +77,11 @@ python detector.py
 ```
 
 ##Result
-![avatar](demo/1.png)
+![](demo/1.png)
 
-![avatar](demo/2.png)
+![](demo/2.png)
 
-![avatar](demo/3.png)
+![](demo/3.png)
 ## References
 
 - code: [ZQPei/deep_sort_pytorch](https://github.com/ZQPei/deep_sort_pytorch)
