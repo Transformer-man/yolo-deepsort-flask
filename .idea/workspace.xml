@@ -1,0 +1,352 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b0cf9201-0a54-4a63-9abc-54f4ac075ffa" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="object-detection-master" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="JupyterTrust" id="982cf35b-c9f3-441a-a744-7e6d694d0443" />
+  <component name="ProjectId" id="1mpMbgLn408a34rAzeR5d0clHwq" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="FullScreen" value="false" />
+    <property name="HbShouldOpenHtmlAsHb" value="" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="recentsLimit" value="5" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\flask\finish\object-detection-master\demo" />
+      <recent name="E:\flask\object-detection-master\data" />
+      <recent name="E:\flask\object-detection-master" />
+      <recent name="E:\flask\object-detection-master\static" />
+      <recent name="E:\flask\object-detection-master\templates" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\flask\finish\object-detection-master\demo" />
+      <recent name="E:\flask\finish\object-detection-master" />
+      <recent name="E:\flask\object-detection-master\cam" />
+      <recent name="E:\flask\object-detection-master" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.object-detection-master">
+    <configuration name="视频入门" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="object-detection-master" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="E:/python/longlong/opencv" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="E:/python/longlong/opencv/视频入门.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="图片合成视频" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="object-detection-master" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="E:/python/longlong/opencv" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="E:/python/longlong/opencv/图片合成视频.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="detector" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="object-detection-master" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/deepsort/detector/YOLOv3" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="E:\flask\object-detection-master\detector.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="object-detection-master" type="PythonConfigurationType" factoryName="Python">
+      <module name="object-detection-master" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/app.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="te" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="object-detection-master" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/te.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="yolo_layer" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="object-detection-master" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/deepsort/detector/YOLOv3" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/deepsort/detector/YOLOv3/yolo_layer.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.视频入门" />
+        <item itemvalue="Python.detector" />
+        <item itemvalue="Python.yolo_layer" />
+        <item itemvalue="Python.te" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b0cf9201-0a54-4a63-9abc-54f4ac075ffa" name="Default Changelist" comment="" />
+      <created>1610186151959</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1610186151959</updated>
+      <workItem from="1610186158338" duration="3263000" />
+      <workItem from="1610257334568" duration="1037000" />
+      <workItem from="1610258436381" duration="2665000" />
+      <workItem from="1610288056426" duration="1222000" />
+      <workItem from="1610295430628" duration="1982000" />
+      <workItem from="1610334282233" duration="1104000" />
+      <workItem from="1610343145947" duration="1836000" />
+      <workItem from="1610347325236" duration="1395000" />
+      <workItem from="1610362850934" duration="72000" />
+      <workItem from="1610414520202" duration="828000" />
+      <workItem from="1610640868403" duration="777000" />
+      <workItem from="1610771838718" duration="1143000" />
+      <workItem from="1610853429374" duration="825000" />
+      <workItem from="1611053956809" duration="645000" />
+      <workItem from="1611065363278" duration="76000" />
+      <workItem from="1615968265791" duration="1595000" />
+      <workItem from="1617681806113" duration="418000" />
+      <workItem from="1617689428597" duration="157000" />
+      <workItem from="1617960863505" duration="34000" />
+      <workItem from="1618227216013" duration="3454000" />
+      <workItem from="1618230709587" duration="1750000" />
+      <workItem from="1618232599277" duration="1236000" />
+      <workItem from="1618277345563" duration="65000" />
+      <workItem from="1618277454494" duration="1250000" />
+      <workItem from="1618278735940" duration="528000" />
+      <workItem from="1618287277077" duration="2263000" />
+      <workItem from="1618289594022" duration="2186000" />
+      <workItem from="1618291829424" duration="1840000" />
+      <workItem from="1618300997801" duration="625000" />
+      <workItem from="1618306739958" duration="810000" />
+      <workItem from="1618313442286" duration="1161000" />
+      <workItem from="1618314634804" duration="432000" />
+      <workItem from="1618315766739" duration="2242000" />
+      <workItem from="1618379953643" duration="7894000" />
+      <workItem from="1618389884865" duration="1742000" />
+      <workItem from="1618392455402" duration="3590000" />
+      <workItem from="1618450204616" duration="1953000" />
+      <workItem from="1618454341638" duration="13940000" />
+      <workItem from="1618474172100" duration="6471000" />
+      <workItem from="1618536750162" duration="23861000" />
+      <workItem from="1618576473583" duration="1688000" />
+      <workItem from="1618666905652" duration="29000" />
+      <workItem from="1618798726758" duration="3457000" />
+      <workItem from="1618802243605" duration="577000" />
+      <workItem from="1618802941079" duration="8328000" />
+      <workItem from="1618817589612" duration="2949000" />
+      <workItem from="1618821449140" duration="6461000" />
+      <workItem from="1618832089974" duration="2341000" />
+      <workItem from="1618834472370" duration="4046000" />
+      <workItem from="1618898521123" duration="7885000" />
+      <workItem from="1618907423221" duration="4290000" />
+      <workItem from="1618969488795" duration="72000" />
+      <workItem from="1619259094820" duration="1124000" />
+      <workItem from="1619343993417" duration="600000" />
+      <workItem from="1619771455478" duration="2554000" />
+      <workItem from="1619775533161" duration="719000" />
+      <workItem from="1619785891983" duration="3931000" />
+      <workItem from="1619795782852" duration="89000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="417" y="186" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1618292489126">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="417" y="186" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.768@0.0.1366.768" timestamp="1618292489126" />
+    <state x="413" y="130" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1618560619419">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="413" y="130" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1366.768@0.0.1366.768" timestamp="1618560619419" />
+    <state x="463" y="139" key="FileChooserDialogImpl" timestamp="1619786689370">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="463" y="139" key="FileChooserDialogImpl/0.0.1366.768@0.0.1366.768" timestamp="1619786689370" />
+    <state width="1323" height="267" key="GridCell.Tab.0.bottom" timestamp="1618912090015">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1323" height="267" key="GridCell.Tab.0.bottom/0.0.1366.768@0.0.1366.768" timestamp="1618912090015" />
+    <state width="1323" height="267" key="GridCell.Tab.0.center" timestamp="1618912090015">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1323" height="267" key="GridCell.Tab.0.center/0.0.1366.768@0.0.1366.768" timestamp="1618912090015" />
+    <state width="1323" height="267" key="GridCell.Tab.0.left" timestamp="1618912090015">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1323" height="267" key="GridCell.Tab.0.left/0.0.1366.768@0.0.1366.768" timestamp="1618912090015" />
+    <state width="1323" height="267" key="GridCell.Tab.0.right" timestamp="1618912090015">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1323" height="267" key="GridCell.Tab.0.right/0.0.1366.768@0.0.1366.768" timestamp="1618912090015" />
+    <state width="1323" height="238" key="GridCell.Tab.1.bottom" timestamp="1618568730585">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1323" height="238" key="GridCell.Tab.1.bottom/0.0.1366.768@0.0.1366.768" timestamp="1618568730585" />
+    <state width="1323" height="238" key="GridCell.Tab.1.center" timestamp="1618568730585">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1323" height="238" key="GridCell.Tab.1.center/0.0.1366.768@0.0.1366.768" timestamp="1618568730585" />
+    <state width="1323" height="238" key="GridCell.Tab.1.left" timestamp="1618568730585">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1323" height="238" key="GridCell.Tab.1.left/0.0.1366.768@0.0.1366.768" timestamp="1618568730585" />
+    <state width="1323" height="238" key="GridCell.Tab.1.right" timestamp="1618568730585">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1323" height="238" key="GridCell.Tab.1.right/0.0.1366.768@0.0.1366.768" timestamp="1618568730585" />
+    <state x="184" y="26" key="SettingsEditor" timestamp="1618899581596">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="184" y="26" key="SettingsEditor/0.0.1366.768@0.0.1366.768" timestamp="1618899581596" />
+    <state x="363" y="208" key="com.intellij.ide.util.TipDialog" timestamp="1619771482479">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="363" y="208" key="com.intellij.ide.util.TipDialog/0.0.1366.768@0.0.1366.768" timestamp="1619771482479" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/object_detection_master$te.coverage" NAME="te Coverage Results" MODIFIED="1618560777243" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/object_detection_master$object_detection_master.coverage" NAME="object-detection-master Coverage Results" MODIFIED="1618834560489" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/object_detection_master$load_weights.coverage" NAME="load_weights Coverage Results" MODIFIED="1610288201862" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/object_detection_master$yolo_layer.coverage" NAME="yolo_layer Coverage Results" MODIFIED="1618832932432" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/deepsort/detector/YOLOv3" />
+    <SUITE FILE_PATH="coverage/object_detection_master$detect_video.coverage" NAME="detect_video Coverage Results" MODIFIED="1618292462074" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/object_detection_master$Flask__test_py_.coverage" NAME="Flask (test.py) Coverage Results" MODIFIED="1618314268457" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/object_detection_master$detect.coverage" NAME="detect Coverage Results" MODIFIED="1618227981418" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/object_detection_master$text.coverage" NAME="text Coverage Results" MODIFIED="1618477635680" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/object_detection_master$detector.coverage" NAME="detector Coverage Results" MODIFIED="1618833245633" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/deepsort/detector/YOLOv3" />
+    <SUITE FILE_PATH="coverage/object_detection_master$.coverage" NAME="图片合成视频 Coverage Results" MODIFIED="1618909866815" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="E:/python/longlong/opencv" />
+  </component>
+</project>

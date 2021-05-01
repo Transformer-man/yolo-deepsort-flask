@@ -1,0 +1,38 @@
+<html lang='en'>
+<head>
+  <meta charset='utf-8'>
+  <link rel='stylesheet' href='../static/style1.css'>
+  <script src='../static/client.js'></script>
+</head>
+<body>
+<div>
+  <div class='center'>
+    <div class='title'>Object Detection</div>
+    <div class='content'>
+      <div class='no-display'>
+      <form action = "/image" method = "POST"
+         enctype = "multipart/form-data">
+         <input id='file-input'
+               class='no-display'
+               type='file'
+               name='images'
+               accept='image/png,image/jpeg,image/jpg,video/mp4,video/avi'
+               onchange='showPicked(this)'>
+      </div>
+      <button class='choose-file-button' type='button' onclick='showPicker()'>Select Image</button>
+      <div class='upload-label'>
+        <label id='upload-label'>No file chosen</label>
+      </div>
+      <div>
+        <img id='image-picked' class='no-display' alt='Chosen Image' height='250'>
+        <video autoplay="autoplay" id='image-picked1' class='no-display' alt='Chosen Image' height='250'>
+      </div>
+      <div class='analyze'>
+        <button id="analyze-button" class="analyze-button" type = "submit">Analyze</button>
+      </div>
+      </form>
+    </div>
+  </div>
+</div>
+</body>
+</html>

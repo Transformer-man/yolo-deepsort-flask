@@ -1,0 +1,55 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+  <!-- Required meta tags -->
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+  <!-- Bootstrap CSS -->
+  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css"
+    integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+  <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+  <link rel='stylesheet' href='../static/style1.css'>
+  <script src='../static/client.js'></script>
+  <title>yolo deepsort</title>
+</head>
+<body>
+  <div class="container">
+    <nav class="navbar navbar-expand-sm bg-primary navbar-dark justify-content-center">
+      <ul class="navbar-nav">
+        <li class="nav-item">
+          <a class="nav-link" href="/realtime"  type = "submit">Video Processor</a>
+        </li>
+      </ul>
+    </nav>
+  </div>
+<div>
+  <div class='center'>
+    <div class='title'>Object Detection</div>
+    <div class='content'>
+      <div class='no-display'>
+      <form action = "/images" method = "POST"
+         enctype = "multipart/form-data">
+         <input id='file-input'
+               class='no-display'
+               type='file'
+               name='images'
+               accept='image/png,image/jpeg,image/jpg,video/mp4,video/avi'
+               onchange='showPicked(this)'>
+      </div>
+      <button class='choose-file-button' type='button' onclick='showPicker()'>Select Image</button>
+      <div class='upload-label'>
+        <label id='upload-label'>No file chosen</label>
+      </div>
+      <div>
+        <img id='image-picked' class='no-display' alt='Chosen Image' height='250'>
+        <video autoplay="autoplay" id='image-picked1' class='no-display' alt='Chosen Image' height='250'>
+      </div>
+      <div class='analyze'>
+        <button id="analyze-button" class="analyze-button" type = "submit">Analyze</button>
+      </div>
+      </form>
+    </div>
+  </div>
+</div>
+</body>
+</html>

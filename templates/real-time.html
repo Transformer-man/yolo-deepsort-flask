@@ -1,0 +1,58 @@
+<!doctype html>
+<html lang="pt-BR">
+
+<head>
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+    <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css"
+        integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+
+    <title>emannuell.com.br</title>
+</head>
+
+<body>
+    <div class="container">
+        <nav class="navbar navbar-expand-sm bg-primary navbar-dark justify-content-center">
+            <ul class="navbar-nav">
+                <li class="nav-item active">
+                    <a class="nav-link" href="/">Yolo V3</a>
+                </li>
+                <a class="navbar-brand" href="/">
+                    <img src="{{ url_for('static', filename='logo.png') }}" alt="Logo" style="width:40px;">
+                </a>
+                <li class="nav-item">
+                    <a class="nav-link" href="/realtime">Video Processor</a>
+                </li>
+            </ul>
+        </nav>
+        <div class="row h-100">
+            <div class="col-md-6 text-center">
+                <h1>Video Display</h1>
+                <img src="{{ url_for('video_feed') }}" class="img-fluid">
+            </div>
+            <div class="col-md-6" style="padding-top: 50px; padding-left: 20px;">
+                <h4>Using a video processor:</h4>
+                <form id="cameraParamsForm" enctype="multipart/form-data">
+                    <input type="checkbox" name="gray" id="gray"> Gray<br>
+                    <input type="checkbox" name="gaussian" id="gaussian"> YOLO DeepSort<br>
+                    <input type="checkbox" name="sobel" id="sobel"> Sobel<br>
+                    <input type="checkbox" name="canny" id="canny"> Canny Edge Detector<br>
+                    <button class="btn btn-success btn-block" style="margin-top: 30px;" name="updateCamera" id="updateCamera">Apply Processor</button>
+                </form>
+            </div>
+        </div>
+    </div>
+    <script src="https://code.jquery.com/jquery-3.3.1.min.js"
+        integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8=" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js"
+        integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1"
+        crossorigin="anonymous"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"
+        integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM"
+        crossorigin="anonymous"></script>
+    <script type="text/javascript" src="{{ url_for('static', filename='worker.js') }}"></script>
+</body>
+</html>
