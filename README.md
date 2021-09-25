@@ -9,7 +9,7 @@
 ![](demo/mobile.gif)
 
 ## Introduction
-Combined with yolov3, deep sort and flash, it is a target detection and multi-target tracking platform that can run on Web pages. You can upload pictures or videos. When the image is uploaded, target detection is carried out. When the video is uploaded, multi-target tracking is carried out (the default is pedestrian, which can be changed to other objects). The mobile terminal provides an online shooting interface for real-time target detection and multi-target tracking.
+Combined with yolov3, deep sort and flask, it is a target detection and multi-target tracking platform that can run on Web pages. You can upload pictures or videos. When the image is uploaded, target detection is carried out. When the video is uploaded, multi-target tracking is carried out (the default is pedestrian, which can be changed to other objects). The mobile terminal provides an online shooting interface for real-time target detection and multi-target tracking.
 ## Dependencies
 - torch
 - torchvision
